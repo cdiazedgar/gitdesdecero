@@ -1,5 +1,10 @@
 ## Curso Git desde cero
 
+### Zonas de Git
+1 . Directorio de Trabajo
+2 . Area de Preparacion
+3 . Directorio Git
+
 ### Flujo de trabajo basico en Git
 Ahora realizamos mas cambios al texto
 
